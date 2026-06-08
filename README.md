@@ -1,4 +1,4 @@
-## 夸克网盘免费扩容1TB：(https://pan.quark.cn/s/24e7633bbfaf)
+## 夸克网盘免费扩容1TB：https://pan.quark.cn/s/24e7633bbfaf
 -----------------
 ## 不同文件夹JS访问：变量值说明
 【TXT M3U 同一个变量值】，
